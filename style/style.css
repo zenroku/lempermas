@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-size: 30px;
+}
+
+.jumbotron {
+    background-image: url("../img/template/kue_tradisional.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron .container {
+    text-shadow: 2px 2px grey;
+}
+
+/* a,
+a:hover,
+a:focus {
+    text-decoration: none;
+} */
